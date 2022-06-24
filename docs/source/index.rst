@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Witaj na dokumentacji bota Smiffy!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
