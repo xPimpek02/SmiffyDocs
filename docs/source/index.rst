@@ -16,8 +16,4 @@ Jeśli potrzebujesz pomocy z komendami, sprawdź: :doc:`usage` w tej sekcji kome
 Contents
 --------
 
-.. toctree::
-
-   usage
-   api
-   komendy
+.. include:: komendy.rst
