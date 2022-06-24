@@ -5,3 +5,7 @@ Komendy
 
 Administracyjne
 ------------
+
+.. toctree::
+
+   API
