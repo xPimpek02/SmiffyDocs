@@ -1,18 +1,17 @@
-Witaj na dokumentacji bota Smiffy!
+Dokumentacja Smiffiego
 ===================================
 
 Informacje
 ##########
-**Smiffy** Jest to bot napisany w języku programowania `Python`. Przeznaczony on jest do aplikacji **Discord**
+**Smiffy** Jest to bot napisany w języku programowania `Python`. Przeznaczony on jest do aplikacji **Discord**.
+Bot posiada aktualnie **ponad** 50 komend
 
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Jeśli potrzebujesz pomocy z komendami, sprawdź: :doc:`usage` w tej sekcji komendy są dokładnie opisane.
 
 .. note::
 
-   This project is under active development.
+   Projekt jest w fazie rozwoju, wszelkie błędy proszę zgłaszać na serwerze bota
 
 Contents
 --------
