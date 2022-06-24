@@ -8,4 +8,4 @@ Administracyjne
 
 .. toctree::
 
-   API
+   api
