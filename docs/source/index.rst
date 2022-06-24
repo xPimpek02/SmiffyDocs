@@ -13,7 +13,11 @@ Jeśli potrzebujesz pomocy z komendami, sprawdź: :doc:`usage` w tej sekcji kome
 
    Projekt jest w fazie rozwoju, wszelkie błędy proszę zgłaszać na serwerze bota
 
-Contents
+Zawartość dokumentacji
 --------
 
-.. include:: komendy.rst
+.. toctree::
+
+   Opóźnienia
+   API
+   komendy
